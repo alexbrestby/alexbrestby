@@ -6,8 +6,8 @@ Hi 👋 My name is Alex
 Self-development and learning every day is my life. I have a couple of apps in my portfolio, but i want to improve my Front\_end skills.
 
 * 🌍  I'm based in Belarus
-* 🖥️  See my portfolio at [My Portfolio](http://leoniuk.org/portfolio)
-* ✉️  You can contact me at [my telegram](https://t.me/brest_by)
+* 🖥️  See my portfolio [here](http://leoniuk.org/portfolio)
+* ✉️  You can contact me at [telegram](https://t.me/brest_by)
 
 #### My skills
 <p align="left">
