@@ -1,9 +1,7 @@
-Hi 👋 My name is Alex
+Hi, my name is Alex
 ==================================
 
-## Web developer
-
-Self-development and learning every day is my life. I have a couple of apps in my portfolio, but i want to improve my Front\_end skills.
+## Junior Web Developer
 
 * 🌍  I'm based in Belarus
 * 🖥️  See my portfolio <a href="http://leoniuk.org/portfolio" target="blank">here</a>
